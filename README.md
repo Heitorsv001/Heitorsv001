@@ -1,6 +1,6 @@
 # Heitor Vareiro
 
-🇧🇷 / 🇺🇸 
+🇧🇷 / 🇺🇸
 
 ---
 
@@ -33,6 +33,12 @@ Currently studying **Técnico Integrado em Informática** at **IFMS** (Instituto
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Featured Projects
+
+**[Gerenciador](https://github.com/Heitorsv001/Gerenciador)** — Management system for students and staff, used to track attendance/presence schedules. Built with PHP, HTML, Bootstrap (CSS) and PostgreSQL.
+
+**[Crowns](https://github.com/Heitorsv001/Crowns)** — Strategic card-based desktop game. Built with Java, Maven and JavaFX, backed by PostgreSQL.
 
 ### Connect
 
@@ -69,6 +75,12 @@ Atualmente cursando **Técnico Integrado em Informática** no **IFMS** (Institut
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Projetos em Destaque
+
+**[Gerenciador](https://github.com/Heitorsv001/Gerenciador)** — Sistema de gerenciamento para alunos e servidores, usado para controlar horários de permanência. Desenvolvido com PHP, HTML, Bootstrap (CSS) e PostgreSQL.
+
+**[Crowns](https://github.com/Heitorsv001/Crowns)** — Jogo de cartas estratégico para desktop. Desenvolvido com Java, Maven e JavaFX, com PostgreSQL.
 
 ### Conecte-se
 
