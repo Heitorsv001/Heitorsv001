@@ -1,6 +1,6 @@
 # Heitor Vareiro
 
-🇧🇷 🇺🇸 *(scroll down for English / role para baixo para o português)*
+🇧🇷 / 🇺🇸 
 
 ---
 
