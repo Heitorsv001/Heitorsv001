@@ -71,12 +71,10 @@ Jogo estratégico de cartas para desktop com batalhas, arenas, recompensas, loja
 **[Portfólio pessoal — PHP MVC](https://github.com/Heitorsv001/Portifolio)**  
 Aplicação pessoal desenvolvida com **PHP MVC, Composer, HTML, CSS e JavaScript**. O PHP gera uma versão estática publicada no **Cloudflare Workers**, com testes e deploy automatizado pelo **GitHub Actions**.
 
-➡️ **[Veja o portfólio online](https://heitorvareiro.heitorsvareiro.workers.dev/)**
-
 ### Formação e certificações
 
 - **Técnico Integrado em Informática — IFMS** · Em andamento (2024–2026, conclusão prevista).
-- Certificações informadas no LinkedIn: **Introdução à Ciência de Dados**, **JavaScript (básico)**, **JavaScript (avançado)** e **Claude Academy: Claude Code 101**.
+- Certificações: **Introdução à Ciência de Dados**, **JavaScript (básico)**, **JavaScript (avançado)** e **Claude Academy: Claude Code 101**.
 
 ### Contato
 
@@ -116,12 +114,10 @@ A strategic desktop card game featuring battles, arenas, rewards, a shop, a coll
 **[Personal Portfolio — PHP MVC](https://github.com/Heitorsv001/Portifolio)**  
 My personal website, developed with **PHP MVC, Composer, HTML, CSS, and JavaScript**. The PHP application generates a static site hosted on **Cloudflare Workers**, with automated testing and deployment through **GitHub Actions**.
 
-➡️ **[Visit the live portfolio](https://heitorvareiro.heitorsvareiro.workers.dev/)**
-
 ### Education and certifications
 
 - **Integrated Technical Program in Informatics — IFMS** · Currently enrolled (2024–2026, expected completion).
-- Certifications listed on LinkedIn: **Introduction to Data Science**, **JavaScript (Basic)**, **JavaScript (Advanced)**, and **Claude Academy: Claude Code 101**.
+- Certifications: **Introduction to Data Science**, **JavaScript (Basic)**, **JavaScript (Advanced)**, and **Claude Academy: Claude Code 101**.
 
 ### Connect
 
